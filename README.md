@@ -12,9 +12,9 @@ SASiML is a cycle-accurate simulator that mimics a Spatial Architecture for acce
 
 Please cite the following papers if you find SASiML useful:
 
-**"EcoFlow: Efficient Convolutional Dataflows for Low-Power Neural Network Accelerators"**, Lois Orosa, Skanda Koppula, Yaman Umuroglu, Konstantinos Kanellopoulos,Juan G ́omez-Luna, Michaela Blott, Kees Vissers, Onur Mutlu, arXiv 2022
+[**"EcoFlow: Efficient Convolutional Dataflows for Low-Power Neural Network Accelerators"**](https://arxiv.org/pdf/2202.02310.pdf), Lois Orosa, Skanda Koppula, Yaman Umuroglu, Konstantinos Kanellopoulos,Juan G ́omez-Luna, Michaela Blott, Kees Vissers, Onur Mutlu, arXiv 2022
 
-**"EcoFlow: Efficient Convolutional Dataflows for Low-Power Neural Network Accelerators"**, Lois Orosa, Skanda Koppula, Yaman Umuroglu, Konstantinos Kanellopoulos,Juan G ́omez-Luna, Michaela Blott, Kees Vissers, Onur Mutlu, IEEE Transactions on Computers 2023
+[**"EcoFlow: Efficient Convolutional Dataflows for Low-Power Neural Network Accelerators"**](https://ieeexplore.ieee.org/document/10119218), Lois Orosa, Skanda Koppula, Yaman Umuroglu, Konstantinos Kanellopoulos,Juan G ́omez-Luna, Michaela Blott, Kees Vissers, Onur Mutlu, IEEE Transactions on Computers 2023
 
 LaTeX code:
 
