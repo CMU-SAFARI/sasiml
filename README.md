@@ -38,8 +38,8 @@ LaTeX code:
 ## Installation
 
 ### Requirements
-i
- SASiML:
+
+SASiML:
  * Python3 
  * importlib
  * Numpy
@@ -126,10 +126,10 @@ The compiler automatically generates the signals for the hardware simulator (in 
 compiler/inputs/alexnet/alexnet_conv1.py has some comments about each field.
 
 ### Execution 
-The  parameters of the compiler are
+The  parameters of the compiler are:
 
 - **-i Input**: input configuration file defining the properties of the layer
-- **-o Output**: output cinfiguration file. This is the input of the hardware simulator
+- **-o Output**: output cinfiguration file. This file is the input of the hardware simulator
 - **-p Pass**: Defines the pass to compile. The options are [**forward**] (default): forward pass , [**igrad**]: input gradient calculation and [**fgrad**]: filter gradient calculation.
 - **-t Type**: defines the type of dataflow. The options are  [**conv**] (default): convolutions (ot transposed convolutions) using the row-stationary dataflow and  [**gflow**]: Grad-Flow (only compatible with -p [igrad or fgrad])
 
